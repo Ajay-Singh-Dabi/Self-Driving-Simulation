@@ -13,7 +13,6 @@ class Controls{
                 this.forward=true;
                 break;
         }
-        
     }
 
     #addKeyboardListeners(){
